@@ -1,0 +1,101 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.inpu {
+
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 34px;
+    padding-top: 24px;
+
+}
+
+.inp input {
+
+
+    font-size: medium;
+    padding: 2px;
+    margin-left: 12px;
+    border-radius: 3px;
+}
+
+.inp {
+
+    padding: 2px;
+    border: 3px;
+    border-radius: 9px;
+}
+
+.in select {
+    font-size: medium;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.header {
+
+    font-weight: 900;
+    padding: 19px;
+    padding-bottom: 42px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+
+.outp {
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.out {
+
+
+    font-size: larger;
+    padding: 2px;
+    margin-left: 12px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ooo {
+
+    padding-right: 0.6rem;
+    /* padding-top: 0.5rem; */
+}
+
+.ou {
+
+    font-size: small;
+    padding-top: 5px;
+}
+
+.butt {
+
+    display: flex;
+    justify-content: center;
+    padding-top: 6rem;
+
+}
+
+.butttt {
+
+    text-align: center;
+    width: 30rem;
+    border-radius: 6px;
+    background-color: rgb(183, 172, 212);
+    border-color: rgb(104, 49, 255);
+    cursor: pointer;
+    padding: 6px;
+}
